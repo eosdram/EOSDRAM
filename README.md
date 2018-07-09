@@ -1,4 +1,4 @@
-# EOSDRAM
+# EOS DRAM
 
 https://etherscan.io/address/0x9955808b5023d5d61db86f505a09922fefbd00c0
 
