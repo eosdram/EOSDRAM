@@ -3,7 +3,9 @@
 https://etherscan.io/address/0x9955808b5023d5d61db86f505a09922fefbd00c0
 
 Name: EOS DRAM
+
 Symbol: DRAM
+
 Decimals: 18
 
 DRAM is the equivalent of EOS RAM on the Ethereum blockchain.
