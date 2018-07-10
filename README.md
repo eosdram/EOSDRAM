@@ -8,7 +8,7 @@ Symbol: DRAM
 
 Decimals: 18
 
-DRAM is the equivalent of EOS RAM on the Ethereum blockchain.
+DRAM is the derivative equivalent of EOS RAM on the Ethereum blockchain.
 
 1 DRAM = 1 Kb (EOS RAM)
 
