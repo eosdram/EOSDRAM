@@ -1,6 +1,6 @@
 # EOS DRAM
 
-https://etherscan.io/address/0x9955808b5023d5d61db86f505a09922fefbd00c0
+**https://etherscan.io/address/0x9955808b5023d5d61db86f505a09922fefbd00c0
 
 Name: EOS DRAM
 
@@ -8,7 +8,7 @@ Symbol: DRAM
 
 Decimals: 18
 
-DRAM/ETH Exchange: https://forkdelta.github.io/#!/trade/0x9955808b5023d5d61db86f505a09922fefbd00c0-ETH
+**DRAM/ETH Exchange: https://forkdelta.github.io/#!/trade/0x9955808b5023d5d61db86f505a09922fefbd00c0-ETH
 
 
 DRAM is the derivative equivalent of EOS RAM on the Ethereum blockchain.
